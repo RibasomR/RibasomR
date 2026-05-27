@@ -11,3 +11,7 @@ Full-stack developer. Building Telegram bots, web apps, and automation tools wit
 #### Stack
 
 `Python` `TypeScript` `Next.js` `React` `FastAPI` `aiogram` `Telethon` `PostgreSQL` `Redis` `Docker`
+
+#### How to contact me?
+
+My telegram — https://t.me/ribasomr
